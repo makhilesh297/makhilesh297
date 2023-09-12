@@ -1,6 +1,4 @@
 Hey there 👋 , I'm Akhilesh Mishra, it's a pleasure to meet you!
-
-I am a Engineering Fresher.
  
 I'm a Frontend web developer doing all things creative to make the web a more unique and awesome place.
 I enjoy bringing a static design or idea to life and learning new technologies.
